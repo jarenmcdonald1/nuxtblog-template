@@ -1,8 +1,14 @@
-# Content v2 Minimal Starter
+# Blog Template Minimal Starter
 
 Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
 
-## Setup
+## Why did I build this
+
+This is to quickly product blog-style sites with a NuxtJS framework.
+
+## Getting Started
+
+### Install
 
 Make sure to install the dependencies:
 
@@ -17,7 +23,7 @@ npm install
 pnpm install --shamefully-hoist
 ```
 
-## Development Server
+### Starting the Development Server
 
 Start the development server on http://localhost:3000
 
@@ -25,7 +31,7 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
-## Production
+### Building for Production
 
 Build the application for production:
 
